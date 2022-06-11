@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffiasd
-- 👀 I’m interested in php golang
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in php golang react vue solidity
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on world
 - 📫 How to reach me coiiasd88@gmail.com
 
