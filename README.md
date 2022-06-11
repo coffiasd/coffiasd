@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @coffiasd
+- 👋 Hi, I’m Ayden Lee From china
 - 👀 I’m interested in php golang react vue solidity
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on world
+- 🌱 I’m currently working on web3
+- 💞️ I’m looking forward a remote web3 job
 - 📫 How to reach me coiiasd88@gmail.com
 
 <!---
