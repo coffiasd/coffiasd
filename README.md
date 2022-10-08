@@ -1,11 +1,9 @@
 ### <div align="center">
-- 👋 Hi, I’m Ayden Lee From china
+- 👋 Hi, My name is Ayden Lee
 - 👀 I’m interested in php golang react vue solidity
 - 🌱 I’m currently working on video game company
 - 💞️ I’m looking for a remote web3 job
 - 📫 How to reach me coiiasd88@gmail.com</div>  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
