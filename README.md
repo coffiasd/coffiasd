@@ -1,8 +1,8 @@
 ### <div align="center">
 - 👋 Hi, My name is Ayden Lee
-- 👀 I’m interested in php golang react vue solidity
-- 🌱 I’m currently working on video game company
-- 💞️ I’m looking for a remote web3 job
+- 👀 I’m working with php golang nextJs solidity
+- 🌱 I’m currently working as freelancer
+- 💞️ I’m looking for a remote job
 - 📫 How to reach me coiiasd88@gmail.com</div>  
 - ⚡ Fun fact: I use tabs over spaces  
   
