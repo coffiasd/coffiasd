@@ -1,10 +1,11 @@
 ### <div align="center">
-- 👋 Hi, My name is Ayden Lee
+- 👋 Hi, My name is Ayden
 - 👀 I’m working on web3
-- 📫 How to reach me coiiasd88@gmail.com</div>  
+- Gmail: coiiasd88@gmail.com
+- X: https://x.com/coffiasse
+- TG: https://t.me/coffiasd
   
 
-<br/>  
 
 
 # Audit portfolio
